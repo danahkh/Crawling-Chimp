@@ -13,7 +13,6 @@ git clone https://github.com/danahkh/Crawling-Chimp.git
 
 ```
 pip install requests, beautifulsoup4       # Try to use pip3 if it didn't work for you
-
 ```
 
 ## snip
