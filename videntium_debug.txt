@@ -1,0 +1,72 @@
+# Crawling results for https://flex.videntium.com
+# Started: 2025-07-07 13:33:25
+# Duration: 0:00:01.752704
+# Pages crawled: 5
+# Links found: 65
+# Max depth: 1
+
+https://flex.videntium.com
+https://flex.videntium.com/
+https://flex.videntium.com/account
+https://flex.videntium.com/admin
+https://flex.videntium.com/admin/contracts
+https://flex.videntium.com/admin/organization-chart
+https://flex.videntium.com/admin/project-preferences
+https://flex.videntium.com/admin/project-workflows
+https://flex.videntium.com/admin/scope
+https://flex.videntium.com/admin/setup
+https://flex.videntium.com/admin/stakeholders
+https://flex.videntium.com/admin/tender
+https://flex.videntium.com/apps/api-keys
+https://flex.videntium.com/apps/database-information
+https://flex.videntium.com/apps/integrations
+https://flex.videntium.com/apps/logs
+https://flex.videntium.com/apps/templates
+https://flex.videntium.com/automations
+https://flex.videntium.com/change-logs
+https://flex.videntium.com/de
+https://flex.videntium.com/dev-admin
+https://flex.videntium.com/dev-admin/companies
+https://flex.videntium.com/dev-admin/feedbacks
+https://flex.videntium.com/dev-admin/logs
+https://flex.videntium.com/dev-admin/surveys
+https://flex.videntium.com/documents/folder/browser
+https://flex.videntium.com/documents/list
+https://flex.videntium.com/feedbacks
+https://flex.videntium.com/forms/change-order
+https://flex.videntium.com/forms/letter
+https://flex.videntium.com/forms/minutes-of-meetings
+https://flex.videntium.com/forms/overview
+https://flex.videntium.com/forms/request-for-informations
+https://flex.videntium.com/forms/submittal
+https://flex.videntium.com/forms/transmittals
+https://flex.videntium.com/global-dashboard
+https://flex.videntium.com/help-center
+https://flex.videntium.com/logout
+https://flex.videntium.com/management/company-info
+https://flex.videntium.com/management/company-preferences
+https://flex.videntium.com/management/organization-chart
+https://flex.videntium.com/management/users
+https://flex.videntium.com/management/workflow-templates
+https://flex.videntium.com/meetings/list
+https://flex.videntium.com/organizations/access-groups
+https://flex.videntium.com/organizations/configuration
+https://flex.videntium.com/organizations/cost-breakdown
+https://flex.videntium.com/organizations/departments-and-designations
+https://flex.videntium.com/organizations/organization-chart
+https://flex.videntium.com/organizations/out-of-contacts
+https://flex.videntium.com/organizations/team-and-members
+https://flex.videntium.com/planning-chart
+https://flex.videntium.com/publication/client-portal
+https://flex.videntium.com/publication/submittals
+https://flex.videntium.com/quality-control
+https://flex.videntium.com/task-management
+https://flex.videntium.com/timesheets
+https://flex.videntium.com/trackers/annotation-tracker
+https://flex.videntium.com/trackers/form-tracker
+https://flex.videntium.com/trackers/master-tracker
+https://flex.videntium.com/trackers/notes-tracker
+https://flex.videntium.com/trackers/timesheet-tracker
+https://flex.videntium.com/trackers/workflow-tracker
+https://flex.videntium.com/v-talks
+https://flex.videntium.com/videntium

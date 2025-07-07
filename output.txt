@@ -1,0 +1,10 @@
+# Crawling results for https://flex.videntium.com
+# Started: 2025-07-07 13:27:22
+# Duration: 0:00:00.970755
+# Pages crawled: 3
+# Links found: 3
+# Max depth: 3
+
+https://flex.videntium.com
+https://flex.videntium.com/forgot-password
+https://flex.videntium.com/login

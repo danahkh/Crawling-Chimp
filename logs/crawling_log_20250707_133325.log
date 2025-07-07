@@ -1,0 +1,34 @@
+2025-07-07 13:33:25,235 - INFO - Basic authentication configured
+2025-07-07 13:33:25,236 - INFO - Attempting form-based login
+2025-07-07 13:33:25,240 - DEBUG - Starting new HTTPS connection (1): flex.videntium.com:443
+2025-07-07 13:33:25,481 - DEBUG - https://flex.videntium.com:443 "GET /login HTTP/1.1" 200 None
+2025-07-07 13:33:25,500 - INFO - Found login page at: https://flex.videntium.com/login
+2025-07-07 13:33:25,506 - INFO - Found 3 input fields in login form
+2025-07-07 13:33:25,506 - DEBUG - Input field: name='un', type='email', id='un'
+2025-07-07 13:33:25,507 - DEBUG - Input field: name='pw', type='password', id='pw'
+2025-07-07 13:33:25,513 - DEBUG - Input field: name='remember', type='checkbox', id='cbx-sm'
+2025-07-07 13:33:25,516 - INFO - Attempting login with form data: ['pw', 'un']
+2025-07-07 13:33:25,597 - DEBUG - https://flex.videntium.com:443 "POST /login HTTP/1.1" 200 None
+2025-07-07 13:33:25,598 - INFO - Login appears successful
+2025-07-07 13:33:25,598 - INFO - Login successful
+2025-07-07 13:33:25,598 - INFO - Starting crawl of https://flex.videntium.com
+2025-07-07 13:33:25,598 - INFO - Parameters: max_depth=1, max_pages=5, slow=False
+2025-07-07 13:33:25,598 - INFO - Crawling: https://flex.videntium.com (depth: 0)
+2025-07-07 13:33:25,805 - DEBUG - https://flex.videntium.com:443 "GET / HTTP/1.1" 200 None
+2025-07-07 13:33:25,937 - INFO - Found 64 new links on https://flex.videntium.com
+2025-07-07 13:33:26,038 - INFO - Crawling: https://flex.videntium.com/ (depth: 1)
+2025-07-07 13:33:26,244 - DEBUG - https://flex.videntium.com:443 "GET / HTTP/1.1" 200 None
+2025-07-07 13:33:26,377 - INFO - Found 0 new links on https://flex.videntium.com/
+2025-07-07 13:33:26,478 - INFO - Crawling: https://flex.videntium.com/dev-admin (depth: 1)
+2025-07-07 13:33:26,648 - DEBUG - https://flex.videntium.com:443 "GET /dev-admin HTTP/1.1" 404 None
+2025-07-07 13:33:26,700 - ERROR - Request error crawling https://flex.videntium.com/dev-admin: 404 Client Error: Not Found for url: https://flex.videntium.com/dev-admin
+2025-07-07 13:33:26,700 - INFO - Crawling: https://flex.videntium.com/dev-admin/companies (depth: 1)
+2025-07-07 13:33:26,881 - DEBUG - https://flex.videntium.com:443 "GET /dev-admin/companies HTTP/1.1" 200 None
+2025-07-07 13:33:26,935 - INFO - Found 0 new links on https://flex.videntium.com/dev-admin/companies
+2025-07-07 13:33:27,036 - INFO - Crawling: https://flex.videntium.com/dev-admin/feedbacks (depth: 1)
+2025-07-07 13:33:27,207 - DEBUG - https://flex.videntium.com:443 "GET /dev-admin/feedbacks HTTP/1.1" 200 None
+2025-07-07 13:33:27,249 - INFO - Found 0 new links on https://flex.videntium.com/dev-admin/feedbacks
+2025-07-07 13:33:27,351 - INFO - Crawling completed in 0:00:01.752704
+2025-07-07 13:33:27,351 - INFO - Total pages crawled: 5
+2025-07-07 13:33:27,351 - INFO - Total unique links found: 65
+2025-07-07 13:33:27,353 - INFO - Results saved to 'videntium_debug.txt'
